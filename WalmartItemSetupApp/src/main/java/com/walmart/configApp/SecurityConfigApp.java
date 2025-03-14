@@ -14,6 +14,7 @@ public class SecurityConfigApp {
 	public Integer sampleInteger() {
 		return Integer.valueOf("100");
 	}
+
 	/*
 	 * Key points about springboot-security :-- 1. Incase of simple authentication
 	 * just add the spring security dependency in the project . 2. For adding our
