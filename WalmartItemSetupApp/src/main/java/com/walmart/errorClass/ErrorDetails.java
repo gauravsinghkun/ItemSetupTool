@@ -6,6 +6,7 @@ public class ErrorDetails {
 	private String errorValue;
 
 	public ErrorDetails() {
+		System.out.println("Error details constructor called...");
 		System.out.println("ErrorDetails.ErrorDetails()");
 	}
 
